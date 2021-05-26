@@ -1,0 +1,159 @@
+body {
+    background: hsl(18, 100%, 95%);
+    margin: 0;
+}
+
+header {
+    padding: 64px;
+    background: #9c5d55;
+}
+
+header h1 {
+    text-align: center;
+    font-size: 32pt;
+    color: #ffffff;
+}
+
+.heather img {
+    width: 100%;
+}
+
+nav {
+    background: #d89f7e;
+    padding: 16px;
+    text-align: center;
+}
+
+nav a {
+    margin: 0 32px;
+    color: #ffffff;
+    text-decoration: none;
+}
+
+main {
+    text-align: center;
+    font-size: medium;
+    padding: 20px 30px ;
+    margin: 32px 400px;
+    text-align: center;
+    border: 8px solid rgb(202, 149, 118);
+    background: hsl(24, 100%, 86%);
+    color: rgb(175, 121, 89);;
+}
+
+main aside {
+    background: hsl(24, 100%, 86%);
+    padding: 15px;
+    color: rgb(175, 121, 89);
+}
+
+main article {
+    padding: 15px;
+}
+
+footer {
+    color: hsl(0, 0%, 100%);
+    text-align: center;
+}
+
+main img {
+    display: grid;
+    grid-template-columns: 90fr 90fr 90fr;
+}
+
+.day {
+    background: rgb(240, 166, 132);
+    color: rgb(255, 255, 255);
+    margin: 64px 550px;
+    padding: 30px ;
+    text-align: center;
+}
+
+.day2 {
+    background: rgb(240, 166, 132);
+    color: rgb(255, 255, 255);
+    margin: 64px 550px;
+    padding: 30px ;
+    text-align: center;
+}
+
+.day2 img {
+    width: 250px;
+}
+
+.day3 {
+    background: rgb(240, 166, 132);
+    color: rgb(255, 255, 255);
+    margin: 64px 550px;
+    padding: 30px ;
+    text-align: center;
+}
+
+.day3 img {
+    width: 250px;
+}
+
+.day4 {
+    background: rgb(240, 166, 132);
+    color: rgb(255, 255, 255);
+    margin: 64px 550px;
+    padding: 30px ;
+    text-align: center;
+}
+
+.day4 img {
+    width: 250px;
+}
+
+.day5 {
+    background: rgb(240, 166, 132);
+    color: rgb(255, 255, 255);
+    margin: 64px 550px;
+    padding: 30px ;
+    text-align: center;
+}
+
+.day5 img {
+    width: 250px;
+}
+
+.day6 {
+    background: rgb(240, 166, 132);
+    color: rgb(255, 255, 255);
+    margin: 64px 550px;
+    padding: 30px ;
+    text-align: center;
+}
+
+.day6 img {
+    width: 250px;
+}
+
+.day7 {
+    background: rgb(240, 166, 132);
+    color: rgb(255, 255, 255);
+    margin: 64px 550px;
+    padding: 30px ;
+    text-align: center;
+}
+
+.day7 img {
+    width: 250px;
+}
+
+.day8 {
+    background: rgb(240, 166, 132);
+    color: rgb(255, 255, 255);
+    margin: 64px 550px;
+    padding: 30px ;
+    text-align: center;
+}
+
+.day8 img {
+    width: 250px;
+}
+
+
+
+
+

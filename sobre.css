@@ -1,0 +1,62 @@
+body {
+    background: hsl(18, 100%, 95%);
+    margin: 0;
+}
+
+header {
+    padding: 64px;
+    background: #9c5d55;
+}
+
+header h1 {
+    text-align: center;
+    font-size: 32pt;
+    color: #ffffff;
+}
+
+.heather img {
+    width: 100%;
+}
+
+nav {
+    background: #d89f7e;
+    padding: 16px;
+    text-align: center;
+}
+
+nav a {
+    margin: 0 32px;
+    color: #ffffff;
+    text-decoration: none;
+}
+
+main {
+    display: grid;
+    grid-template-columns: 210fr 60fr;
+    color: rgb(196, 136, 101);
+}
+
+main aside {
+    background: hsl(24, 100%, 86%);
+    padding: 15px;
+    color: rgb(175, 121, 89);
+}
+
+main article {
+    padding: 15px;
+}
+
+footer {
+    color: hsl(0, 0%, 100%);
+    text-align: center;
+}
+
+main img {
+    display: grid;
+    grid-template-columns: 90fr 90fr 90fr;
+}
+
+h2 {
+    text-align: center;
+}
+
